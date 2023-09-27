@@ -31,7 +31,7 @@ plugins:
   - jekyll-remote-theme
 
 # Permalinks
-permalink: /:year-:month-:day/:title
+permalink: /articles/:title
 paginate: 5
 
 include:
