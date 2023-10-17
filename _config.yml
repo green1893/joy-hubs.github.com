@@ -51,3 +51,6 @@ giscus:
   input_position: 'top'
   theme: 'preferred_color_scheme'
   lang: "zh-CN"
+
+# website analytics
+google_analytics: G-WZTSP4ZM85
